@@ -1,12 +1,11 @@
-HTTrack3.49-2 launched on Thu, 18 Apr 2019 10:57:18 at https://nrly.co/
-(winhttrack https://nrly.co/ -O "/Users/darshanbalar/websites/portfolio" -%v )
+HTTrack3.49-2 launched on Thu, 18 Apr 2019 11:37:16 at https://gaetanlefebvre.fr/
+(winhttrack https://gaetanlefebvre.fr/ -O "/Users/darshanbalar/websites/profile" -%v )
 
 Information, Warnings and Errors reported for this mirror:
 note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
 	such as username/password authentication for websites mirrored in this project
 	do not share these files/folders if you want these information to remain private
 
-10:57:22	Error: 	"Not Found" (404) at link https://nrly.co/apple-touch-icon.png (from https://nrly.co/)
 
-HTTrack Website Copier/3.49-2 mirror complete in 4 seconds : 3 links scanned, 1 files written (21638 bytes overall) [15443 bytes received at 3860 bytes/sec], 34820 bytes transferred using HTTP compression in 3 files, ratio 41%, 1.5 requests per connection
-(1 errors, 0 warnings, 0 messages)
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 24 links scanned, 23 files written (1461161 bytes overall) [1417293 bytes received at 48872 bytes/sec], 65544 bytes transferred using HTTP compression in 1 files, ratio 17%, 14.0 requests per connection
+(No errors, 0 warnings, 0 messages)
