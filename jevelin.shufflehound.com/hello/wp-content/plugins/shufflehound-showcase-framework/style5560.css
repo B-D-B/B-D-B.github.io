@@ -1,0 +1,137 @@
+.sh-settings {
+	position: fixed;
+	height: 100%;
+	background-color: rgba(255,255,2555,1);
+	top: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 1234567890;
+	border-left: 1px solid rgba(0,0,0,0.08);
+	box-shadow: 0px 0px 3px 1px rgba(0, 0, 0, 0.04);
+	-webkit-transform: translateX(321px);
+	    -ms-transform: translateX(321px);
+	        transform: translateX(321px);
+	-webkit-transition: 0.3s all;
+	transition: 0.3s all;
+}
+
+.sh-settings-active {
+	-webkit-transform: translateX(0px)!important;
+	    -ms-transform: translateX(0px)!important;
+	        transform: translateX(0px)!important;
+}
+
+.sh-settings-container {
+	width: 320px;
+	right: -17px;
+}
+
+.sh-settings-container-bar {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: -17px;
+    overflow: scroll;
+    overflow-x: hidden;
+	padding: 30px;
+}
+
+.sh-settings-hide {
+	position: absolute;
+	top: 220px;
+	left: 0;
+	margin-left: -77px;
+	width: 54px;
+	height: 54px;
+	border: 2px solid #cecece;
+	font-size: 24px;
+	cursor: pointer;
+	border-radius: 100px;
+	text-align: center;
+}
+
+.sh-settings-hide i {
+	line-height: 52px;
+	font-size: 24px;
+	color: #cecece;
+}
+
+.sh-settings h3 {
+	font-size: 16px;
+	margin-bottom: 25px;
+}
+
+.sh-settings .sh-progress {
+	visibility:visible!important;
+}
+
+.sh-settings .sh-progress-title {
+	font-size: 13px!important;
+}
+
+.sh-settings-demo {
+	display: block;
+	width: 48%;
+	background-color: #f4f4f4;
+	height: 91px;
+	margin-bottom: 15px;
+	background-size: cover;
+	background-position: 50% 50%;
+	-webkit-transition: 0.3s all;
+	transition: 0.3s all;
+}
+
+.sh-settings-demo.home1 {
+	background-image: url(jevelin_home1.jpg);
+}
+
+.sh-settings-demo.home2 {
+	background-image: url(jevelin_home2.png);
+}
+
+.sh-settings-demo.home3 {
+	background-image: url(jevelin_home3.png);
+}
+
+.sh-settings-demo.home4 {
+	background-image: url(jevelin_home4.png);
+}
+
+.sh-settings-demo.home5 {
+	background-image: url(jevelin_home5.png);
+}
+
+.sh-settings-demo.home6 {
+	background-image: url(jevelin_home6.png);
+}
+
+.sh-settings-demo.home7 {
+	background-image: url(jevelin_home7.png);
+}
+
+.sh-settings-demo.home8 {
+	background-image: url(jevelin_home8.png);
+}
+
+.sh-settings-empty-space {
+	height: 30px;
+}
+
+.sh-settings .sh-pricing-button {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 600px) {
+
+	.sh-settings {
+		display: none!important;
+	}
+
+}
+
+body.woocommerce-page.search  .sh-titlebar {
+	background-image: none!important;
+}
