@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:57:20	3992/3992	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2018%20Apr%202019%2005:27:20%20GMT	https://nrly.co/robots.txt		(from )
+10:57:21	21638/21638	---MCZ	200	added ('OK')	text/html	date:Thu,%2018%20Apr%202019%2005:27:20%20GMT	https://nrly.co/	/Users/darshanbalar/websites/portfolio/nrly.co/index.html	(from )
+10:57:21	9190/9190	---MCZ	404	error ('Not%20Found')	text/html	date:Thu,%2018%20Apr%202019%2005:27:21%20GMT	https://nrly.co/apple-touch-icon.png	/Users/darshanbalar/websites/portfolio/nrly.co/apple-touch-icon.png	(from https://nrly.co/)
