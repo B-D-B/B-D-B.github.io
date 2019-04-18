@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-jevelin.shufflehound.com	TRUE	/	FALSE	1999999999	PHPSESSID	4c9f4c63d2bb44097b10e70c31bde17a
-
